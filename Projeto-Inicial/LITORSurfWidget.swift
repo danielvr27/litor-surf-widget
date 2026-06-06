@@ -1,0 +1,1 @@
+// Estrutura do projeto Swift será adicionada aqui em breve.
